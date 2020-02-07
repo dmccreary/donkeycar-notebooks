@@ -24,7 +24,7 @@ Here are some ideas of what would be useful.
 1. View data in an f5 file (compressed file system in a zip format) HDF5 format https://en.wikipedia.org/wiki/Hierarchical_Data_Format1. List models and model sizes
 1. Show the layers in a model
 1. List model input parameters (image height and width)
-1. Test model with a given image (returns the predicted throttle and steering)
+1. Test model with a given image (returns the predicted throttle and steering) - key function!
 1. Show the areas of an image that the model pays attention to (hard)
 
 ## Existing Donkeycar Utilities
