@@ -18,8 +18,7 @@ Sample Jupyter notebooks for working with DonkeyCar data.
 
 ## Model Functions
 1. List models
-1. View data in an f5 file (compressed file system in a zip format)
-1. List models and model sizes
+1. View data in an f5 file (compressed file system in a zip format) HDF5 format https://en.wikipedia.org/wiki/Hierarchical_Data_Format1. List models and model sizes
 1. List model parameters
 1. Test model
 1. Show error values for test data
